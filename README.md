@@ -1,25 +1,16 @@
-Implement this design in an app using Flutter, using widgets that we take in lesson today.
+# popup
 
-<img width="682" alt="Screenshot 2025-04-15 at 5 15 56 PM" src="https://github.com/user-attachments/assets/76f11511-1352-48f2-954f-62f3bc8f0a48" />
+A new Flutter project.
 
-### Note:
-- This is only 1 page.
-- use `ElevatedButton(), TextField(), AlertDialog` widgets.
-- upload GIF or video for your app.
-- if you upload GIF, upload it in README file.
+## Getting Started
 
-Submission details:
-Deadline **Thursday - 17 April** submission format: provide your flutter code file(s) in you personal repo.
+This project is a starting point for a Flutter application.
 
----
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-### طريقة التسليم:
-1. عمل fork لهذا الــ repo
-2. إنشاء branch بإسمك
-3. بعد العمل على الbranch الخاص بك ورفع الاكواد
-4. يتم رفع طلب pull request إلى الــ main
-
----
-
-Good luck 🚀 and happy coding! 🧑‍💻
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
