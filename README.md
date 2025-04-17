@@ -21,5 +21,7 @@ Deadline **Thursday - 17 April** submission format: provide your flutter code fi
 4. يتم رفع طلب pull request إلى الــ main
 
 ---
+### فيديو للشاشة:
+![Demo Video](Assets/run_uiFlatter_task2.mp4)
 
 Good luck 🚀 and happy coding! 🧑‍💻
